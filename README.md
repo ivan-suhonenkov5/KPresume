@@ -17,12 +17,9 @@
 Откройте терминал и выполните:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/ivan-suhonenkov5/KPresume]
 cd your-repo-name
 ```
-
-> Замените `your-username/your-repo-name` на актуальный адрес этого репозитория.
-
 ---
 
 ### ⚙️ Шаг 2. Создайте файл `.env`
